@@ -71,12 +71,11 @@ section{
     box-shadow:0 2px 10px rgba(0,0,0,.1);
 }
 
-.gallery{
-  images/
-  ribbon1.jpeg
-  ribbon2.jpeg
-index.html
-}
+<div class="gallery">
+    <img src="images/ribbon1.jpg" alt="Ribbon 1">
+    <img src="images/ribbon2.jpg" alt="Ribbon 2">
+    <img src="images/ribbon3.jpg" alt="Ribbon 3">
+</div>
 
 .gallery img{
     width:100%;
