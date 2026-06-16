@@ -72,21 +72,10 @@ section{
 }
 
 .gallery{
-    <h2>Our Spirit Ribbons</h2>
-
-<div class="product-grid">
-
-  <div class="product">
-    <img src="images/ribbon1.jpg" alt="Spirit Ribbon 1">
-    <p>Red Spirit Ribbon</p>
-    <p>$10.00</p>
-  </div>
-
-  <div class="product">
-    <img src="images/ribbon2.jpg" alt="Spirit Ribbon 2">
-    <p>Blue Spirit Ribbon</p>
-    <p>$15.00</p>
-  </div>
+  images/
+  ribbon1.jpg
+  ribbon2.jpg
+index.html
 }
 
 .gallery img{
