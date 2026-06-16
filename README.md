@@ -73,8 +73,8 @@ section{
 
 .gallery{
   images/
-  IMG_1505.jpeg
-  IMG_1506.jpeg
+  ribbon1.jpeg
+  ribbon2.jpeg
 index.html
 }
 
